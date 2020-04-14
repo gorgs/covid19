@@ -1,5 +1,5 @@
 # covid19
-Datos extraidos del gobierno de Baja California por municipio de COVID-19
+Datos extraidos del gobierno de Baja California
 ```
 Mexicali
 Tijuana
@@ -8,13 +8,6 @@ Ensenada
 Tecate
 San Quintin
 ```
+Esta información es procesada y puesta en formato .CSV y .JSON para ser utilizar por cualquier persona que quiera analizarla. Podras buscar información histórica en la carpeta **/data**.
 
-En la carpeta **/data** esta el historial de documentos .CSV y .JSON
-
-Puedes hacer uso de:
-```
-covid19-bc-latest.json
-covid19-bc-latest.csv
-
-```
-para la información mas actualizada
+Puedes hacer uso de **covid19-bc-latest.csv** y **covid19-bc-latest.json**, estos contienen la información más reciente.

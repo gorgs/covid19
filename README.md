@@ -11,7 +11,7 @@ Los datos son extraídos del gobierno de Baja California diaramente del sitio [G
 - Tecate
 - San Quintin
 
-Esta información es procesada y puesta en formato .CSV y .JSON para ser utilizada por cualquier persona que quiera analizarla. Podrás buscar información histórica en la carpeta **/data**. Los datos inician el 1 de abril del 2020 hasta la fecha.
+Esta información es procesada y puesta en formato .CSV y .JSON para ser utilizada por cualquier persona que quiera analizarla. Podrás buscar información histórica en la carpeta **/datos**. Los datos inician el 1 de abril del 2020 hasta la fecha.
 
 Puedes hacer uso de **covid19-bc-latest.csv** y **covid19-bc-latest.json**, estos contienen la información más reciente.
 
